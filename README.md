@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Adam. Thansk for visiting me :)</h1>
 <h2 align="left"> 💬 About Me </h2>
 <p align="left"> 
-I'am a frontend developer, currently looking for new opportunity
+I'm a frontend developer, currently looking for new opportunity
 </p>
 <p align ="left">📫 How to reach me a.kosior090@gmail.com</p>
 </p>
