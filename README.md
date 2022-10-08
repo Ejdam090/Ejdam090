@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Adam. Thansk for visiting me :)</h1>
 <h2 align="left"> 💬 About Me </h2>
 <p align="left"> 
-If you checked my repos and found something I need to correct, please tell me. I want to improve as much as it’s possible. I’m open for any collaboration.
+I'am a frontend developer, currently looking for new opportunity
 </p>
 <p align ="left">📫 How to reach me a.kosior090@gmail.com</p>
 </p>
