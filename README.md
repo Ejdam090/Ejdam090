@@ -9,7 +9,7 @@ I'm a 25-year-old student Warsaw School of Information Technology and I am curre
 <p align="left"> 
 I'm an aspiring JavaScript Developer and I'm very interested in gaining my first experience and skills in this field. have a strong analytical, mathematical and proble-solving skills along with motivation to lear and gain knowledge.  Have advanced soft-skills and have experrience in team work. 
 </p>
-<p align ="left">📫 How to reach me a.kosior090@gmail.com</p>
+
 </p>
 
 <h3 align="left">Tech Stack:</h3>
