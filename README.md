@@ -1,7 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Adam. Thansk for visiting me :)</h1>
 <h2 align="left"> 💬 About Me </h2>
 <p align="left"> 
-I'm a frontend developer, currently looking for new opportunites
+I'm a 25-year-old student Warsaw School of Information Technology and I am currently in the process of looking for a job.
+</p>
+<p align ="left">📫 How to reach me a.kosior090@gmail.com</p>
+</p>
+<h2 align="left"> 🔎 Overview </h2>
+<p align="left"> 
+I'm an aspiring JavaScript Developer and I'm very interested in gaining my first experience and skills in this field. have a strong analytical, mathematical and proble-solving skills along with motivation to lear and gain knowledge.  Have advanced soft-skills and have experrience in team work. 
 </p>
 <p align ="left">📫 How to reach me a.kosior090@gmail.com</p>
 </p>
